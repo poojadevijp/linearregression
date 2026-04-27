@@ -5,4 +5,5 @@ This project is created using body fat in orange application by using linear reg
 
 The data is based on 
 
-tools used : *
+algorithms used: *knn
+                  *linear regression 
