@@ -2,11 +2,14 @@ after building dashboard,it was found that
 dhdjdedj
 *body fat 
 *which part of the body has fat and causes heart disease
-
 about body fat
+<<<<<<< HEAD
 patients data
 <<<<<<< HEAD
 Edited locally.
 =======
+=======
+data is about patient
+>>>>>>> c20145e6b83f151d85c3056ecd345b4f61e82ce5
 Edited on Github.
 >>>>>>> e5d975a5267912e7ac3352fc30b605af3a98ded0
